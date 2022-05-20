@@ -26,7 +26,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Fiz esse menu com HTML,CSS e JavaScript para continuar aprimorando os conhecimentos e também para ultiliza-lp em algum outro projeto no futuro pois o código e bem fácil de ler e de fazer manutenção.
+  Fiz esse menu com HTML,CSS e JavaScript para continuar aprimorando os conhecimentos e também para ultiliza-lo em algum outro projeto no futuro pois o código e bem fácil de ler e de fazer manutenção.
 </p>
 
 ## Funcionalidades
